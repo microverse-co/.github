@@ -1,6 +1,6 @@
-# [Micro Verse Co]
+# MicroVerse Co
 
-Welcome to the [Micro Verse Co] GitHub organization! This repository houses the codebase and documentation for building our platform with microservices. Please find below an overview of the repository structure.
+Welcome to the MicroVerse Co GitHub organization! This repository houses the codebase and documentation for building our platform with microservices. Please find below an overview of the repository structure.
 
 ## Repository Types
 
