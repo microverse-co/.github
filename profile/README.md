@@ -13,19 +13,25 @@ Welcome to the MicroVerse Co GitHub organization! This repository houses the cod
 
   Example: `pms-user-auth`, `cms-notification-handler`, `dms-order-processing`
 
-### 2. **Packages Repositories**
+### 2. **Monolithic Repositories**
+
+- Repositories that contain monolithic application:
+  - `app`: 
+  Example: `app-microverse`
+
+### 3. **Packages Repositories**
 
 - Repositories that contain packages with tools to improve coding time are prefixed with `pkg`. These packages may include utilities, scripts, and other resources that enhance the development experience.
 
   Example: `pkg-code-enhancements`, `pkg-error`
 
-### 3. **Documentation Repositories**
+### 4. **Documentation Repositories**
 
 - Repositories that contain documentation are prefixed with `doc`. These repositories provide essential guides, API documentation, and other relevant information.
 
   Example: `doc-api-reference`, `doc-deployment-guide`
 
-### 4. **Code Samples Repositories**
+### 5. **Code Samples Repositories**
 
 - Repositories that contain code samples are prefixed with `csp`. These repositories are dedicated to showcasing code snippets, examples, and best practices.
 
